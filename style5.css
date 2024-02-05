@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    color: white;
+    background-image: url("https://e0.pxfuel.com/wallpapers/222/771/desktop-wallpaper-sweater-weather-autumn-aesthetic-autumn-magic-autumn-inspiration.jpg");
+}
+
+.container {
+    max-width: 600px;
+    color: white;
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    padding: 40px; /* Set the background color to be transparent */
+    border-radius: 10px black;
+    box-shadow: 0 0 10px rgba(7, 6, 8, 0.3); /* Adjust the alpha value here for the box shadow transparency */
+    margin-top: 130px;
+    background-image: url("https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg");
+}
+input{
+    background-color:white;
+    color: black;
+}
+button
+{
+    background-color: rgb(14, 2, 9);
+    color:aliceblue;
+}
+h1 :hover{
+    background-color: rgb(10, 9, 10);
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    border: black;
+}
+h4{
+    color: white;
+}
